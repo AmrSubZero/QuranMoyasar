@@ -1,2 +1,2 @@
 # QuranMoyasar
-Holy Quran - Free &amp; Mo Ads
+Holy Quran - Free &amp; No Ads
