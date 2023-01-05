@@ -1,12 +1,8 @@
-<img align="left" src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
 
 # Quran Moyasar
 
-<br clear="both"/>
-
----
-
-### Holy Quran - Free with No Ads.
+### Read the Holy Quran with easy (Moyasar) interpretation, Free and without Ads.
 
 #### Features :
 
