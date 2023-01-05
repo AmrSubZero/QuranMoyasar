@@ -2,6 +2,8 @@
 
 # Quran Moyasar
 
+[Download Now](https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar)
+
 ### Read the Holy Quran with easy (Moyasar) interpretation, Free and without Ads.
 
 #### Features :
@@ -17,6 +19,8 @@
 ---
 
 # القرآن الميسر
+
+[التحميل الآن](https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar)
 
 ### تطبيق القرآن الكريم مجانى وبدون إعلانات.
 
