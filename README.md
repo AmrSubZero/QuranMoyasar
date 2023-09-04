@@ -1,10 +1,16 @@
-<img align="right" src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
+  <br>
+  <h1>القران الميسر</h1>
+</div>
 
-<br/><br/><br/>
+ <div align="center">
+    <a  target="_blank" rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar">
+      <img height="80" alt="Get it on Google Play" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" data-canonical-src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" style="max-width: 100%;">
+    </a>
+ </div>
 
-# القرآن الميسر
-
-[التحميل الآن](https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar)
+<br>
 
 ### تطبيق القرآن الكريم مجانى وبدون إعلانات.
 
@@ -25,17 +31,25 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5399778/210307398-dedf8a3f-93a7-4b7c-ace5-081bfa7b75e4.png" width="100" height="100">
+  <br>
+  <h1>Quran Moyasar</h1>
+</div>
 
-# Quran Moyasar
+ <div align="center">
+    <a  target="_blank" rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar">
+      <img height="80" alt="Get it on Google Play" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" data-canonical-src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" style="max-width: 100%;">
+    </a>
+ </div>
 
-[Download Now](https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar)
+<br>
 
 ### Read the Holy Quran with easy (Moyasar) interpretation, Free and without Ads.
 
 #### Features :
 
-- Read Holy Quran with simple layouts & fonts.
+- Read Noble Quran with simple layouts & fonts.
 - Listen to Surahs of Quran.
 - Ability to change voice of (Qarea/Reader) from settings page.
 - Displaying (Tafsir) for every Ayah when reading.
