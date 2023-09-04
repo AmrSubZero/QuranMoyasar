@@ -4,10 +4,10 @@
   <h1>القران الميسر</h1>
 </div>
 
- <div align="center">
-    <a  target="_blank" rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar">
-      <img height="80" alt="Get it on Google Play" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" data-canonical-src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" style="max-width: 100%;">
-    </a>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar" target="_blank">
+    <img alt="Get it on Google Play" height="80" style="max-width: 100%;" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" />
+  </a>
  </div>
 
 <br>
@@ -37,10 +37,10 @@
   <h1>Quran Moyasar</h1>
 </div>
 
- <div align="center">
-    <a  target="_blank" rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar">
-      <img height="80" alt="Get it on Google Play" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" data-canonical-src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" style="max-width: 100%;">
-    </a>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.amrsubzero.quranmoyasar" target="_blank">
+    <img alt="Get it on Google Play" height="80" style="max-width: 100%;" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ca10f7e0-54a1-4bd5-baef-9e6e95b8347d" />
+  </a>
  </div>
 
 <br>
