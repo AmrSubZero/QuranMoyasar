@@ -45,7 +45,7 @@
 
 <br>
 
-### Read the Holy Quran with easy (Moyasar) interpretation, Free and without Ads.
+### Read the Noble Quran with easy (Moyasar) interpretation, Free and without Ads.
 
 #### Features :
 
