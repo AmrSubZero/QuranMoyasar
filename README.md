@@ -45,14 +45,21 @@
 
 <br>
 
-### Read the Noble Quran with easy (Moyasar) interpretation, Free and without Ads.
+### Read the Noble Quran with (Muyassar) interpretation, Free and without Ads.
 
 #### Features :
 
 - Read Noble Quran with simple layouts & fonts.
-- Listen to Surahs of Quran.
-- Ability to change voice of (Qarea/Reader) from settings page.
-- Displaying (Tafsir) for every Ayah when reading.
-- Ability to Show/Hide (Tafsir) for Ayats when reading.
-- Ability to Quick Jump/Search for Surahs by Surah name or Surah number.
-- Ability to Quick Jump/Search for Ayats by Ayah text or Ayah number.
+- Listen to chapters of Quran.
+- Ability to change (Recitations/Reader) from settings page.
+- Displaying (Tafseer/Interpretation) for every verse when reading.
+- Ability to add verses to Bookmarks to get back to it later.
+- Ability to listen to each verse separately.
+- Ability to Show/Hide (Tafseer/Interpretation) for verses when reading.
+- Ability to (Quick Jump and Search) for chapters by chapter name or chapter number.
+- Ability to (Quick Jump and Search) for verses by verse text or verse number.
+- Ability to adjust font sizes for (Verses) and (Tafseer/Interpretation) from settings page.
+- Ability to (Copy/Share/Bookmark) each verse.
+- Ability to listen to chapters while the app is in the background.
+- Ability to control the audio player from notification drawer while the app is in the background.
+- Ability to choose application theme (Light/Dark/System) from settings page.
