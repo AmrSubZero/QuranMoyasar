@@ -80,4 +80,4 @@
 
 ---
 
-<a href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
+[سياسة الخصوصية | Privacy Policy](https://amrsubzero.github.io/QuranMoyasar/privacy-policy)
