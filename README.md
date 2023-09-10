@@ -66,18 +66,39 @@
 - Ability to choose application theme (Light/Dark/System) from settings page.
 
 ---
-
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/071bfc76-61f0-40d9-9102-91b4150bab89" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/86ea66cd-d5da-4ff8-9d39-805d6b233c72" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a2d6ee33-8559-4dcf-ae41-8afbf1dd0df5" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/54b4c76c-18c5-471d-bab7-1cd6b3365f92" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/7cea9a2b-c4b1-4636-96d6-3fd9ed502c66" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ee94b93b-c53b-4734-825e-fc9deb6391a9" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/fcadb9cb-7cdb-453b-a01a-bf0a918b6614" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a950b328-9f09-4491-b732-e5451bb8a6a0" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/779ebca1-cf52-4d06-8747-27fb7beda427" alt="Quran Moyasar" />
-<img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a143e35d-afdc-44ab-9e19-5907d2075f1b" alt="Quran Moyasar" />
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/f22011da-9b29-43e8-8477-19a6486fc6ff" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/f22011da-9b29-43e8-8477-19a6486fc6ff" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/81328470-22a2-4b5e-af0c-894872e934f0" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/81328470-22a2-4b5e-af0c-894872e934f0" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ed17de58-98f9-448d-9c98-890f27dd528f" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ed17de58-98f9-448d-9c98-890f27dd528f" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/5c94c448-da09-4410-a177-10e53726e549" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/5c94c448-da09-4410-a177-10e53726e549" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/1fdeaaf2-9522-485c-b0ac-b9ccbc3bff8f" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/1fdeaaf2-9522-485c-b0ac-b9ccbc3bff8f" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/f8afa7f7-f0c8-4194-98f1-b399a0e90469" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/f8afa7f7-f0c8-4194-98f1-b399a0e90469" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/9f722e6d-abf2-4277-b0ab-8a01b158b61c" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/9f722e6d-abf2-4277-b0ab-8a01b158b61c" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/acc09a17-5733-4cf8-be22-439269298cde" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/acc09a17-5733-4cf8-be22-439269298cde" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/037470e8-2827-4d51-9120-be2234179820" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/037470e8-2827-4d51-9120-be2234179820" alt="Quran Moyasar" />
+</a>
+<a href="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/9b66c5ce-1fe5-446e-81cc-3007e6bfad3e" target="_blank">
+  <img width="19%" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/9b66c5ce-1fe5-446e-81cc-3007e6bfad3e" alt="Quran Moyasar" />
+</a>
 
 ---
 
-<a align="right" href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
+<div align="center">
+  <a href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
+</div>
