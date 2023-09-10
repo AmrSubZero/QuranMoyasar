@@ -29,6 +29,7 @@
 - إمكانية التحكم من درج الإشعارات فى الهاتف اثناء الإستماع
 - إمكانية تغيير مظهر التطبيق (فاتح/داكن/حسب النظام)
 
+
 ---
 
 <div align="center">
@@ -63,3 +64,20 @@
 - Ability to listen to chapters while the app is in the background.
 - Ability to control the audio player from notification drawer while the app is in the background.
 - Ability to choose application theme (Light/Dark/System) from settings page.
+
+---
+
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/071bfc76-61f0-40d9-9102-91b4150bab89" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/86ea66cd-d5da-4ff8-9d39-805d6b233c72" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a2d6ee33-8559-4dcf-ae41-8afbf1dd0df5" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/54b4c76c-18c5-471d-bab7-1cd6b3365f92" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/7cea9a2b-c4b1-4636-96d6-3fd9ed502c66" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/ee94b93b-c53b-4734-825e-fc9deb6391a9" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/fcadb9cb-7cdb-453b-a01a-bf0a918b6614" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a950b328-9f09-4491-b732-e5451bb8a6a0" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/779ebca1-cf52-4d06-8747-27fb7beda427" alt="Quran Moyasar" />
+<img width="198" src="https://github.com/AmrSubZero/QuranMoyasar/assets/5399778/a143e35d-afdc-44ab-9e19-5907d2075f1b" alt="Quran Moyasar" />
+
+---
+
+<a href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
