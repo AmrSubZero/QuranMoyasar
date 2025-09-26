@@ -103,5 +103,13 @@
 ---
 
 <div align="center">
-  <a href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
+    <a href="https://amrsubzero.github.io/QuranMoyasar/privacy-policy" target="_blank">سياسة الخصوصية | Privacy Policy</a>
+</div>
+
+---
+
+<div align="center">
+  <a href='https://ko-fi.com/K3K71LV5WU' target='_blank'>
+    <img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_beige.png' border='0' alt='Support Me on Ko-fi' />
+  </a>
 </div>
