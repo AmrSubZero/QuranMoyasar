@@ -70,28 +70,28 @@
 
 <div align="center">
 
-  <a href="https://github.com/user-attachments/assets/8b3cc96c-7df4-4a4b-a15a-9455fc707c1f" target="_blank">
+  <a href="https://github.com/user-attachments/assets/8b3cc96c-7df4-4a4b-a15a-9455fc707c1f" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/8b3cc96c-7df4-4a4b-a15a-9455fc707c1f" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/dca9fc63-9419-4cec-bba8-0abb94bf9cb2" target="_blank">
+  <a href="https://github.com/user-attachments/assets/dca9fc63-9419-4cec-bba8-0abb94bf9cb2" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/dca9fc63-9419-4cec-bba8-0abb94bf9cb2" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/f1058186-7187-4cb0-8c50-bbc42a4d9cbc" target="_blank">
+  <a href="https://github.com/user-attachments/assets/f1058186-7187-4cb0-8c50-bbc42a4d9cbc" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/f1058186-7187-4cb0-8c50-bbc42a4d9cbc" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/70e8180f-cef4-4f79-af4f-b05d1a1a15f1" target="_blank">
+  <a href="https://github.com/user-attachments/assets/70e8180f-cef4-4f79-af4f-b05d1a1a15f1" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/70e8180f-cef4-4f79-af4f-b05d1a1a15f1" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/d1149188-9fa7-4d5f-b9a1-b9d1c37b1431" target="_blank">
+  <a href="https://github.com/user-attachments/assets/d1149188-9fa7-4d5f-b9a1-b9d1c37b1431" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/d1149188-9fa7-4d5f-b9a1-b9d1c37b1431" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/061a4678-a903-45c8-ad49-3f8544e15c03" target="_blank">
+  <a href="https://github.com/user-attachments/assets/061a4678-a903-45c8-ad49-3f8544e15c03" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/061a4678-a903-45c8-ad49-3f8544e15c03" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/c3003db2-acb2-4987-84d9-7ab00da1beda" target="_blank">
+  <a href="https://github.com/user-attachments/assets/c3003db2-acb2-4987-84d9-7ab00da1beda" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/c3003db2-acb2-4987-84d9-7ab00da1beda" alt="Quran Moyasar" />
   </a>
-  <a href="https://github.com/user-attachments/assets/9a2aaf6d-f50f-4512-b56b-e1a1d989239c" target="_blank">
+  <a href="https://github.com/user-attachments/assets/9a2aaf6d-f50f-4512-b56b-e1a1d989239c" target="_blank" style="border:1px solid #eee;">
     <img width="24.6%" src="https://github.com/user-attachments/assets/9a2aaf6d-f50f-4512-b56b-e1a1d989239c" alt="Quran Moyasar" />
   </a>
 
